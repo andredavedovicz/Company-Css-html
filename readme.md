@@ -1,8 +1,8 @@
-#Company
+# Company
 
 In this project i just practice the html resources like bold,italic,table,link,ul and li.And a few css to set a "head" bar.
 
-##Technologies
+## Technologies
 
 - Html
 - Css
